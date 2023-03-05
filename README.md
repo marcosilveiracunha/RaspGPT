@@ -12,7 +12,7 @@ This repository contains Python scripts to use with the Raspberry Pi 3.
 
 Clone the repository:
 
-`git clone https://github.com/your_username/raspberry-pi-python.git`
+`git clone https://github.com/marcosilveiracunha/RaspGPT.git`
 
 Navigate to the repository directory:
 
